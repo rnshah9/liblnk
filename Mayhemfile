@@ -1,0 +1,8 @@
+project: rnshah9/liblnk
+target: liblnk
+image: ghcr.io/rnshah9/playground:liblnk
+tests:
+  - file://tests/data
+
+cmds:
+  - cmd: /usr/local/bin/lnkinfo @@
