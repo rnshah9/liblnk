@@ -1,6 +1,5 @@
 project: rnshah9/liblnk
-target: liblnk
-image: ghcr.io/rnshah9/playground:liblnk
+target: lnkinfo
 tests:
   - file://tests/data
 
