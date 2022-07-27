@@ -4,4 +4,4 @@ testsuite:
   - file://tests/data
 
 cmds:
-  - cmd: /usr/local/bin/lnkinfo @@
+  - cmd: /install/bin/lnkinfo @@
